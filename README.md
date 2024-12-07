@@ -2,8 +2,6 @@
 
 Moovie App is a movie recommendation system that helps you discover movies similar to the ones you love. It leverages advanced **natural language processing (NLP)** techniques to ensure you get recommendations tailored to your preferences.
 
----
-
 ## 🛠️ How It Works
 
 1. **Data Preparation**  
