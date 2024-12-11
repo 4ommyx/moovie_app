@@ -23,3 +23,7 @@ Moovie App is a movie recommendation system that helps you discover movies simil
 ## 🚀 Explore New Favorites  
 Let **Moovie App** guide you to your next movie adventure! 🎬  
 Discover hidden gems and relive the magic of movies you'll absolutely adore.  
+## Additional Resources
+
+- **Documentation** : [Movie Recommendation System Based on TF-IDF](https://medium.com/@4ommyx/movie-recommendation-system-based-on-tf-idf-dd455699b8fd)  
+- **App Link** : [Moovie App](https://moovieapp-4ommyx.streamlit.app/)
